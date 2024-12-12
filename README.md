@@ -8,4 +8,5 @@ A floating window that shows a single phrase for focus.
     - [x] Update focus phrase
     - [x] Toggle window visibility
 - [ ] Persist phrase on each workspace that won't get tracked by workspace's version control
+- [ ] Add a timer for visibility
 - [ ] Customizable styles
