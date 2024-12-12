@@ -1,3 +1,3 @@
 # onething
 
-A floating window that shows a single phrase of focus.
+A floating window that shows a single phrase for focus.
