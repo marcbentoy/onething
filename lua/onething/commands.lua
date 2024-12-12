@@ -62,7 +62,7 @@ M.setup = function()
         "ToggleOnethingVisibilty", function()
             M.toggle_visibility()
         end,
-        { nargs = 1, desc = "Show or hide onething window" }
+        { desc = "Show or hide onething window" }
     )
 end
 
